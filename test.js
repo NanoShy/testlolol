@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<script>
 alert("My First JavaScript");
-</script>
-</body>
-</html>
+alert("My First JavaScript");
+alert("My First JavaScript");
