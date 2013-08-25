@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
 <script>
-alert("it works!!!");
+alert("My First JavaScript");
 </script>
+</body>
+</html>
